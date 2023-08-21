@@ -6,10 +6,3 @@
     }
   }
 }
-{
-  "build": {
-    "env": {
-      "GIT_CREDENTIALS": "https://zayan99742364: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@github.com"
-    }
-  }
-}
